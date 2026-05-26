@@ -13,7 +13,7 @@ confirming this is a regional last-mile problem, not a nationwide one.
 ## B. Project Links
 - **Notebook:** [https://colab.research.google.com/drive/1HpgI6eX_O_ECLYNTuhnJ8PFoe1lFlv8q?usp=sharing]
 - **Dashboard:** [https://datastudio.google.com/reporting/bd8f6ca4-7a70-4e6d-b328-3114ac221072]
-- **Presentation:** [Google Slides link here]
+- **Presentation:** [https://docs.google.com/presentation/d/1sa2Hg9ofoTd8MVB5-ZOFAjjtpCcopMRB3mfv63OkCMY/edit?usp=sharing]
 
 ## C. Technical Explanation
 
